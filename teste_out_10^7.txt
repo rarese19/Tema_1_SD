@@ -1,0 +1,50 @@
+Testul 1	Nr elemente 10000000	Numarul maxim 10000
+
+	Intro Sort a avut nevoie de 1412 milisecunde si a sortat corect.
+	Timpul de executare este prea ridicat, Selection Sort nu este bun pentru a sorta atat de multe elemente.
+	Merge Sort a avut nevoie de 2860 milisecunde si a sortat corect.
+	Shell Sort a avut nevoie de 3343 milisecunde si a sortat corect.
+	Count Sort a avut nevoie de 78 milisecunde si a sortat corect.
+	Radix Sort in baza 10 a avut nevoie de 551 milisecunde si a sortat corect.
+
+
+Testul 2	Nr elemente 10000000	Numarul maxim 100000
+
+	Intro Sort a avut nevoie de 1439 milisecunde si a sortat corect.
+	Timpul de executare este prea ridicat, Selection Sort nu este bun pentru a sorta atat de multe elemente.
+	Merge Sort a avut nevoie de 2928 milisecunde si a sortat corect.
+	Shell Sort a avut nevoie de 3785 milisecunde si a sortat corect.
+	Count Sort a avut nevoie de 78 milisecunde si a sortat corect.
+	Radix Sort in baza 10 a avut nevoie de 681 milisecunde si a sortat corect.
+
+
+Testul 3	Nr elemente 10000000	Numarul maxim 1000000
+
+	Intro Sort a avut nevoie de 1413 milisecunde si a sortat corect.
+	Timpul de executare este prea ridicat, Selection Sort nu este bun pentru a sorta atat de multe elemente.
+	Merge Sort a avut nevoie de 2912 milisecunde si a sortat corect.
+	Shell Sort a avut nevoie de 3733 milisecunde si a sortat corect.
+	Count Sort a avut nevoie de 63 milisecunde si a sortat corect.
+	Radix Sort in baza 10 a avut nevoie de 677 milisecunde si a sortat corect.
+
+
+Testul 4	Nr elemente 10000000	Numarul maxim 10000000
+
+	Intro Sort a avut nevoie de 1432 milisecunde si a sortat corect.
+	Timpul de executare este prea ridicat, Selection Sort nu este bun pentru a sorta atat de multe elemente.
+	Merge Sort a avut nevoie de 2992 milisecunde si a sortat corect.
+	Shell Sort a avut nevoie de 3778 milisecunde si a sortat corect.
+	Count Sort a avut nevoie de 89 milisecunde si a sortat corect.
+	Radix Sort in baza 10 a avut nevoie de 708 milisecunde si a sortat corect.
+
+
+Testul 5	Nr elemente 10000000	Numarul maxim 100000000
+
+	Intro Sort a avut nevoie de 1454 milisecunde si a sortat corect.
+	Timpul de executare este prea ridicat, Selection Sort nu este bun pentru a sorta atat de multe elemente.
+	Merge Sort a avut nevoie de 2998 milisecunde si a sortat corect.
+	Shell Sort a avut nevoie de 3765 milisecunde si a sortat corect.
+	Count Sort a avut nevoie de 87 milisecunde si a sortat corect.
+	Radix Sort in baza 10 a avut nevoie de 700 milisecunde si a sortat corect.
+
+

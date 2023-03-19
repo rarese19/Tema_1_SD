@@ -1,0 +1,25 @@
+Testul 1	Nr elemente 100000000	Numarul maxim 10000
+
+	Radix Sort in baza 10 a avut nevoie de 7283 milisecunde si a sortat corect.
+
+
+Testul 2	Nr elemente 100000000	Numarul maxim 100000
+
+	Radix Sort in baza 10 a avut nevoie de 8893 milisecunde si a sortat corect.
+
+
+Testul 3	Nr elemente 100000000	Numarul maxim 1000000
+
+	Radix Sort in baza 10 a avut nevoie de 9076 milisecunde si a sortat corect.
+
+
+Testul 4	Nr elemente 100000000	Numarul maxim 10000000
+
+	Radix Sort in baza 10 a avut nevoie de 9179 milisecunde si a sortat corect.
+
+
+Testul 5	Nr elemente 100000000	Numarul maxim 100000000
+
+	Radix Sort in baza 10 a avut nevoie de 10042 milisecunde si a sortat corect.
+
+

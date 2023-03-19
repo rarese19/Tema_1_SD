@@ -1,0 +1,15 @@
+Testul 1	Nr elemente 100000000	Numarul maxim 10000
+
+	Count Sort a avut nevoie de 964 milisecunde si a sortat corect.
+Testul 2	Nr elemente 100000000	Numarul maxim 100000
+
+	Count Sort a avut nevoie de 960 milisecunde si a sortat corect.
+Testul 3	Nr elemente 100000000	Numarul maxim 1000000
+
+	Count Sort a avut nevoie de 996 milisecunde si a sortat corect.
+Testul 4	Nr elemente 100000000	Numarul maxim 10000000
+
+	Count Sort a avut nevoie de 987 milisecunde si a sortat corect.
+Testul 5	Nr elemente 100000000	Numarul maxim 100000000
+
+	Count Sort a avut nevoie de 989 milisecunde si a sortat corect.

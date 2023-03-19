@@ -1,0 +1,50 @@
+Testul 1	Nr elemente 10000	Numarul maxim 10000
+
+	Intro Sort a avut nevoie de 0 milisecunde si a sortat corect.
+	Selection Sort a avut nevoie de 416 milisecunde si a sortat corect.
+	Merge Sort a avut nevoie de 0 milisecunde si a sortat corect.
+	Shell Sort a avut nevoie de 0 milisecunde si a sortat corect.
+	Count Sort a avut nevoie de 0 milisecunde si a sortat corect.
+	Radix Sort in baza 10 a avut nevoie de 0 milisecunde si a sortat corect.
+
+
+Testul 2	Nr elemente 10000	Numarul maxim 100000
+
+	Intro Sort a avut nevoie de 0 milisecunde si a sortat corect.
+	Selection Sort a avut nevoie de 435 milisecunde si a sortat corect.
+	Merge Sort a avut nevoie de 0 milisecunde si a sortat corect.
+	Shell Sort a avut nevoie de 15 milisecunde si a sortat corect.
+	Count Sort a avut nevoie de 0 milisecunde si a sortat corect.
+	Radix Sort in baza 10 a avut nevoie de 0 milisecunde si a sortat corect.
+
+
+Testul 3	Nr elemente 10000	Numarul maxim 1000000
+
+	Intro Sort a avut nevoie de 0 milisecunde si a sortat corect.
+	Selection Sort a avut nevoie de 363 milisecunde si a sortat corect.
+	Merge Sort a avut nevoie de 0 milisecunde si a sortat corect.
+	Shell Sort a avut nevoie de 0 milisecunde si a sortat corect.
+	Count Sort a avut nevoie de 0 milisecunde si a sortat corect.
+	Radix Sort in baza 10 a avut nevoie de 0 milisecunde si a sortat corect.
+
+
+Testul 4	Nr elemente 10000	Numarul maxim 10000000
+
+	Intro Sort a avut nevoie de 0 milisecunde si a sortat corect.
+	Selection Sort a avut nevoie de 457 milisecunde si a sortat corect.
+	Merge Sort a avut nevoie de 4 milisecunde si a sortat corect.
+	Shell Sort a avut nevoie de 0 milisecunde si a sortat corect.
+	Count Sort a avut nevoie de 0 milisecunde si a sortat corect.
+	Radix Sort in baza 10 a avut nevoie de 0 milisecunde si a sortat corect.
+
+
+Testul 5	Nr elemente 10000	Numarul maxim 100000000
+
+	Intro Sort a avut nevoie de 0 milisecunde si a sortat corect.
+	Selection Sort a avut nevoie de 414 milisecunde si a sortat corect.
+	Merge Sort a avut nevoie de 0 milisecunde si a sortat corect.
+	Shell Sort a avut nevoie de 15 milisecunde si a sortat corect.
+	Count Sort a avut nevoie de 0 milisecunde si a sortat corect.
+	Radix Sort in baza 10 a avut nevoie de 0 milisecunde si a sortat corect.
+
+
