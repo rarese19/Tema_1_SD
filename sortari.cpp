@@ -143,7 +143,8 @@ int* to_sort = new int[100000300];
 int* sort_1 = new int[100000300];
 int* sort_2 = new int[100000300];
 int* sort_3 = new int[100000300];
-
+//In cazul meu, pentru a putea rula algoritmii care necesita array-uri auxiliare, am eliminat doua array-uri dintre sort_1, sort_2, sort_3.
+//Nu pot aloca mai mult de 4.
 int main(){
     srand(time(NULL));
     ifstream f("teste.txt");
