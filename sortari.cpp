@@ -10,15 +10,10 @@ using namespace std;
 using namespace std::chrono;
 
 void selectionSort(int a[], int n){
-    int minim;
-    for(int i=0; i<n-1; i++){
-        minim = i;
+    for(int i=0; i<n-1; i++)
         for(int j=i+1; j<n; j++)
-            if(a[j] < a[minim])
-                minim = j;
-        if(minim != i)
-            swap(a[i], a[minim]);
-    }
+            if(a[i] > a[j])
+                swap(a[i], a[j]);
 }
 
 void merge(int a[], int start, int mid, int stop){
